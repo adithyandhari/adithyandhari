@@ -9,7 +9,7 @@
 * Passionate about **robotics, embedded systems, and automation**
 * Hands-on with **ROS 2 (Jazzy)**, sensors (LiDAR), and robot simulations
 * Interested in **OSINT fundamentals**, system internals, and security-aware design
-* Currently building projects while preparing for **engineering entrance exams (JEE/KEAM/IIT-focused prep)**
+* Currently building projects **
 
 ---
 
@@ -31,7 +31,7 @@
 
 **Embedded & Systems**
 
-* Microcontrollers (basics)
+* Microcontrollers
 * Serial communication (UART/USB)
 * Sensors & drivers
 
