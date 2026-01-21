@@ -66,7 +66,7 @@
 
 ## 📫 Connect With Me
 
-* GitHub: **@AdithyanLalappan**
+* GitHub: **@adithyandhari **
 * Always open to learning, collaboration, and constructive discussions
 
 ---
